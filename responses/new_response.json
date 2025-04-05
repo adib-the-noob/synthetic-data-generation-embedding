@@ -1,0 +1,83 @@
+[
+    {
+      "id": "PROD1234567890",
+      "title": "Eco-Friendly Citrus Cleaning Spray by GreenEarth",
+      "description": "Freshen up your home with this eco-friendly cleaning spray from GreenEarth. Infused with natural citrus essential oils, it effectively eliminates odors and leaves a fresh, invigorating scent behind. Made with plant-based ingredients, this non-toxic cleaner is safe for use around children and pets. Contains 97% biodegradable ingredients.",
+      "category": "Cleaning",
+      "brand": "GreenEarth",
+      "price": 3.99,
+      "tags": ["eco-friendly", "natural", "citrus", "plant-based"]
+    },
+    {
+      "id": "SNACK1111222233",
+      "title": "Vegan Protein Bars by PlantPower",
+      "description": "Satisfy your hunger and fuel your active lifestyle with these delicious vegan protein bars from PlantPower. Packed with 20g of plant-based protein, they're the perfect snack for gym goers or busy professionals on the move. Made with wholesome ingredients like almonds, chia seeds, and pea protein, these bars are a guilt-free indulgence. Nutrition Facts: Calories 240, Total Fat 9g (Saturated Fat 1.5g), Sodium 180mg, Total Carbohydrate 26g (Dietary Fiber 7g, Sugars 10g), Protein 20g.",
+      "category": "Snacks",
+      "brand": "PlantPower",
+      "price": 2.99,
+      "tags": ["vegan", "protein", "snack", "plant-based"]
+    },
+    {
+      "id": "BEV1567890ABCD",
+      "title": "Organic Green Tea by ZenLeaf",
+      "description": "Experience the tranquility of a Japanese tea ceremony with every sip of this organic green tea from ZenLeaf. Made from premium quality leaves, it's rich in antioxidants and offers a smooth, refreshing taste. Each box contains 30 individually wrapped tea bags for your convenience. Nutrition Facts: Calories 2, Total Fat 0g (Saturated Fat 0g), Sodium 0mg, Carbohydrates 0g, Protein 0g.",
+      "category": "Beverages",
+      "brand": "ZenLeaf",
+      "price": 5.99,
+      "tags": ["organic", "green tea", "antioxidants"]
+    },
+    {
+      "id": "PC1234567890",
+      "title": "Sensitive Skin Moisturizing Cream by DermEase",
+      "description": "Soothe and nourish your sensitive skin with this moisturizing cream from DermEase. Formulated with aloe vera, chamomile, and calendula, it gently hydrates and reduces redness. Suitable for all skin types, this fragrance-free cream is gentle enough for daily use. Active Ingredients: Aloe Barbadensis Leaf Juice, Chamomilla Recutita (Matricaria) Flower Extract, Calendula Officinalis Flower Extract.",
+      "category": "Personal Care",
+      "brand": "DermEase",
+      "price": 19.99,
+      "tags": ["sensitive skin", "moisturizing", "fragrance-free"]
+    },
+    {
+      "id": "HOUSE12345678",
+      "title": "Eco-Friendly Dish Soap by EcoPure",
+      "description": "Keep your dishes sparkling clean with this eco-friendly dish soap from EcoPure. Made with plant-derived ingredients, it's tough on grease yet gentle on the environment. This phosphate-free formula is safe for septic systems and suitable for use in all types of dishwashers. Contains 95% biodegradable ingredients.",
+      "category": "Household",
+      "brand": "EcoPure",
+      "price": 3.49,
+      "tags": ["eco-friendly", "dish soap", "plant-derived"]
+    },
+    {
+      "id": "DAIRY22223333",
+      "title": "Grass-Fed Greek Yogurt by FarmFresh",
+      "description": "Start your day off right with this creamy grass-fed Greek yogurt from FarmFresh. Packed with protein and probiotics, it supports digestive health and helps you feel full longer. Made with milk from pasture-raised cows, it's a delicious and nutritious choice for breakfast or as a snack. Nutrition Facts: Calories 130, Total Fat 2g (Saturated Fat 1g), Sodium 85mg, Carbohydrates 14g (Dietary Fiber 0g, Sugars 12g), Protein 15g.",
+      "category": "Dairy",
+      "brand": "FarmFresh",
+      "price": 3.99,
+      "tags": ["grass-fed", "Greek yogurt", "protein"]
+    },
+    {
+      "id": "BAKERY456789012",
+      "title": "Whole Wheat Bread by HealthBake",
+      "description": "Enjoy the delicious taste of whole wheat bread without the guilt with this loaf from HealthBake. Made with 100% whole wheat flour, it's a great source of fiber and nutrients. This hearty bread is perfect for sandwiches or toast. Ingredients: Whole Wheat Flour, Water, Yeast, Salt, Vital Wheat Gluten.",
+      "category": "Bakery",
+      "brand": "HealthBake",
+      "price": 3.49,
+      "tags": ["whole wheat", "fiber", "nutritious"]
+    },
+    {
+      "id": "FREEZ12345678",
+      "title": "Veggie Burgers by VeggieDelight",
+      "description": "Savor the taste of a juicy burger without the meat with these veggie burgers from VeggieDelight. Made with a blend of vegetables, grains, and legumes, they're high in protein and fiber. Cook them on the grill or in a pan for a delicious meal that's easy to prepare. Nutrition Facts: Calories 200, Total Fat 7g (Saturated Fat 1g), Sodium 350mg, Carbohydrates 24g (Dietary Fiber 6g, Sugars 3g), Protein 9g.",
+      "category": "Freezer",
+      "brand": "VeggieDelight",
+      "price": 5.99,
+      "tags": ["veggie burgers", "high protein"]
+    },
+    {
+      "id": "SNACK12345678",
+      "title": "Roasted Sea Salt Almonds by NuttyTreats",
+      "description": "Satisfy your cravings with these roasted sea salt almonds from NuttyTreats. A tasty and nutritious snack, they're a great source of protein and healthy fats. Enjoy them as a quick pick-me-up or as part of a trail mix.",
+      "category": "Snacks",
+      "brand": "NuttyTreats",
+      "price": 4.99,
+      "tags": ["roasted sea salt almonds", "protein"]
+    }
+  ]

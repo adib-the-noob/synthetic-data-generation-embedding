@@ -1,0 +1,44 @@
+[
+  {
+    "id": "PROD123",
+    "title": "Green Tea Matcha Latte Mix",
+    "description": "Experience the energizing and refreshing taste of matcha green tea with our convenient latte mix. Made from high-quality matcha powder, this mix is perfect for those looking to upgrade their daily coffee routine. Rich in antioxidants and L-theanine, it promotes focus and calmness. Nutrition Facts: 120 calories per serving, 2g fat, 20g carbs, 3g protein.",
+    "category": "Beverages",
+    "brand": "MatchaBliss",
+    "price": 4.99,
+    "tags": [
+      "matcha",
+      "green tea",
+      "latte mix",
+      "organic"
+    ]
+  },
+  {
+    "id": "PROD456",
+    "title": "Natural Deodorant Spray (Sensitive Skin)",
+    "description": "Stay fresh and confident all day with our natural deodorant spray, specifically designed for sensitive skin. Our unique blend of baking soda, coconut oil, and essential oils helps to neutralize body odor without irritating your skin. Perfect for daily use, this eco-friendly deodorant is also vegan and cruelty-free.",
+    "category": "Personal Care",
+    "brand": "Purezza",
+    "price": 6.99,
+    "tags": [
+      "natural",
+      "deodorant spray",
+      "sensitive skin",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": "PROD789",
+    "title": "Eco-Friendly All-Purpose Cleaner",
+    "description": "Cleaning just got a whole lot greener! Our all-purpose cleaner is made with plant-based ingredients, biodegradable and non-toxic, making it safe for your home, family, and the environment. Effective against dirt, grime, and stains, this versatile cleaner is perfect for any room in your house.",
+    "category": "Cleaning",
+    "brand": "EcoClean",
+    "price": 7.99,
+    "tags": [
+      "eco-friendly",
+      "all-purpose cleaner",
+      "plant-based",
+      "biodegradable"
+    ]
+  }
+]

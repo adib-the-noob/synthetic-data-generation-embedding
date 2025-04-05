@@ -1,0 +1,38 @@
+[
+    {
+      "id": "PROD-123456-ABC",
+      "title": "Eco-Friendly Natural Toothpaste - Fresh Mint",
+      "description": "Say goodbye to harsh chemicals and plastic waste with our Eco-Friendly Natural Toothpaste! Formulated with organic aloe vera, this toothpaste gently cleans your teeth while promoting healthy gums. The Fresh Mint flavor leaves your mouth feeling refreshed and invigorated. Made with minimal ingredients, this toothpaste is biodegradable, reducing its environmental impact. Contains no fluoride, SLS, or triclosan. $3.99.",
+      "category": "Personal Care",
+      "brand": "GreenEarth Co.",
+      "price": 3.99,
+      "tags": ["organic", "natural", "biodegradable", "toothpaste", "eco-friendly"]
+    },
+    {
+      "id": "SNK-789012-XYZ",
+      "title": "Zero Sugar Vegan Protein Bars - Chocolate Delight",
+      "description": "Stay fit and satisfied with our Zero Sugar Vegan Protein Bars! Each bar packs 20 grams of protein from plant-based sources, helping you build lean muscle without the added sugars. With a rich chocolate flavor, these bars are the perfect on-the-go snack. Enjoy the convenience of grab-and-go nutrition without compromising your dietary preferences. $2.49 per bar. Contains pea protein, brown rice protein, and cocoa. Vegan, sugar-free, soy-free.",
+      "category": "Snacks",
+      "brand": "FitVegan Co.",
+      "price": 2.49,
+      "tags": ["vegan", "protein", "zero sugar", "snack"]
+    },
+    {
+      "id": "DRN-345678-ABC",
+      "title": "Antioxidant-Rich Green Smoothie Mix - Tropical Blast",
+      "description": "Start your day right with our Antioxidant-Rich Green Smoothie Mix! This blend combines spinach, kale, pineapple, mango, and banana to deliver a powerful dose of antioxidants. Simply mix one scoop with water or your favorite milk alternative for a nutritious drink. Each serving provides 5 grams of fiber and 10% of your daily Vitamin C needs. $4.99 per container. Contains no artificial flavors, colors, or preservatives.",
+      "category": "Beverages",
+      "brand": "Superfood Co.",
+      "price": 4.99,
+      "tags": ["antioxidants", "green smoothie", "fiber", "vitamin c"]
+    },
+    {
+      "id": "CLN-901234-DEF",
+      "title": "All-Purpose Eco-Friendly Cleaning Spray - Lemon Fresh",
+      "description": "Clean your home with confidence using our All-Purpose Eco-Friendly Cleaning Spray! This non-toxic formula is safe for use on all surfaces and contains natural lemon essential oil, leaving a fresh and invigorating scent behind. No harsh chemicals or fumes are present. This spray easily tackles dirt and grime, making it the perfect multi-purpose cleaner for your home. $3.49.",
+      "category": "Cleaning",
+      "brand": "EcoHome Co.",
+      "price": 3.49,
+      "tags": ["eco-friendly", "all-purpose cleaner", "lemon fresh"]
+    }
+  ]
